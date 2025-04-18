@@ -9,7 +9,7 @@
 * Kéo giao diện từ flow insert vào node-red
 * ![image](https://github.com/user-attachments/assets/fd125694-f18c-4f22-bd58-076fe497e437)
 
-# 4. SETUP WIFI
+# 5. SETUP WIFI
 ![Screenshot 2025-04-12 234943](https://github.com/user-attachments/assets/f704e885-e2c9-4bb8-a778-73b4c50553e8)
 ![Screenshot 2025-04-12 234958](https://github.com/user-attachments/assets/4652aab2-4cc7-4269-8974-1c9fd8099553)
 ![Screenshot 2025-04-13 010239](https://github.com/user-attachments/assets/a09b8000-29d6-4a45-9df0-76dce399ad12)
